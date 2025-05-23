@@ -10,5 +10,5 @@ This project predicts a student's percentage based on the number of study hours 
 
 ## How to Run
 1. Clone the repo
-2. Run `score_prediction.py`
+2. Run `score prediction using supervised learning.ipynb`
 3. View predictions and visualizations
